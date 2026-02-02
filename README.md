@@ -42,11 +42,9 @@ The goal of this project is to implement and understand **core NLP concepts** th
 
 ## 📌 Example Input
 The teacher explains concepts very clearly.
-Copy code
 
 ## 📌 Example Output
 Sentiment: Positive
-Copy code
 
 ---
 
@@ -72,16 +70,15 @@ The sentiment is classified using **compound score** from VADER:
    ```bash
    pip install nltk
 Download NLTK resources:
-Copy code
-Python
 import nltk
 nltk.download('punkt')
 nltk.download('stopwords')
 nltk.download('averaged_perceptron_tagger')
 nltk.download('vader_lexicon')
 Run the Python script / Jupyter notebook.
-🎯 Learning Outcome
+
+## 🎯 Learning Outcome
 This project helped me understand how theoretical NLP concepts like tokenization, POS tagging, and sentiment analysis are implemented in real-world applications using Python.
-👩‍💻 Author
-Mini
+## 👩‍💻 Author
+Minakshi Dubey 
 B.Tech CSE (AIML)
